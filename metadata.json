@@ -1,0 +1,6 @@
+{
+  "name": "QR Studio Pro",
+  "description": "Générateur de QR codes d'entreprise personnalisés avec analytics de scans, QR dynamiques et export vectoriel haute résolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
